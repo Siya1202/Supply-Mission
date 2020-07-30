@@ -1,2 +1,1 @@
-# Supply-Mission
-A zombie apocalyse
+# SupplyMission
